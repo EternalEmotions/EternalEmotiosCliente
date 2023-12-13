@@ -1,0 +1,43 @@
+/* styles.css */
+
+/* Estilos para las clases de fondo específicas */
+.evento-background-1 {
+    background-image: url("@/assetsEventos/event1.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+  .evento-background-2 {
+    background-image: url("@/assetsEventos/event2.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .evento-background-3 {
+    background-image: url("@/assetsEventos/event1.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .evento-background-4 {
+    background-image: url("@/assetsEventos/event2.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .evento-background-5 {
+    background-image: url("@/assetsEventos/event1.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .evento-background-35 {
+    background-image: url("@/assetsEventos/event2.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+  
+ 
+ 
+  
+
+  

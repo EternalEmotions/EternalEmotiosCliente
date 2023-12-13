@@ -1,0 +1,115 @@
+/* styles.css */
+
+/* Estilos para las clases de fondo específicas */
+.preset-background-1 {
+    background-image: url("@/assets/12.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .preset-background-2 {
+    background-image: url('@/assets/13.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+  .preset-background-3 {
+    background-image: url("@/assets/25.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .preset-background-4 {
+    background-image: url("@/assets/24.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .preset-background-5 {
+    background-image: url("@/assets/19.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .preset-background-6 {
+    background-image: url("@/assets/23.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .preset-background-7 {
+    background-image: url("@/assets/21.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .preset-background-8 {
+    background-image: url("@/assets/22.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .preset-background-9 {
+    background-image: url("@/assets/10.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .preset-background-10 {
+    background-image: url("@/assets/11.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .preset-background-11 {
+    background-image: url("@/assets/20.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+  .preset-background-12 {
+    background-image: url("@/assets/24.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+  .preset-background-13 {
+    background-image: url("@/assets/12.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+  .preset-background-14 {
+    background-image: url("@/assets/13.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+  .preset-background-15 {
+    background-image: url("@/assets/14.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+  .preset-background-16 {
+    background-image: url("@/assets/15.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .preset-background-17 {
+    background-image: url("@/assets/25.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .preset-background-18 {
+    background-image: url("@/assets/17.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .preset-background-19 {
+    background-image: url("@/assets/18.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+  
+
+  
+  /* Añade más estilos según sea necesario para otros presets */
+  
